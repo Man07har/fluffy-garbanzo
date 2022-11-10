@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Footer from './components/Footer';
 import About from './components/About';
 import Services from './components/Services';
+import Happen from './components/Happen';
 
 
 export default function App() {
@@ -13,6 +14,8 @@ export default function App() {
       <Hero />
       <About />
       <Services />
+      <Happen />
+      <div className='h-[50px]'></div>
       <Footer />
     </div>
   )
