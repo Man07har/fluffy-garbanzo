@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fluffy-garbanzo/static/css/main.bcc2b6e3.css",
+    "main.js": "/fluffy-garbanzo/static/js/main.1e042647.js",
+    "static/media/burger.png": "/fluffy-garbanzo/static/media/burger.e07837baa403a3c8117d.png",
+    "static/media/Burger.png": "/fluffy-garbanzo/static/media/Burger.0cab8159d6bcd0058ce9.png",
+    "static/media/coca-cola.png": "/fluffy-garbanzo/static/media/coca-cola.c8c120c666f5f15c7a4e.png",
+    "static/media/cheese-rolls.png": "/fluffy-garbanzo/static/media/cheese-rolls.48136a034543c72fd076.png",
+    "static/media/subway-rolls.png": "/fluffy-garbanzo/static/media/subway-rolls.3007bc3d6c031e040fa2.png",
+    "static/media/noodles.jpg": "/fluffy-garbanzo/static/media/noodles.9280e789877191d9cfec.jpg",
+    "static/media/Egg-rolls.png": "/fluffy-garbanzo/static/media/Egg-rolls.d8830ef9fc8220721f10.png",
+    "static/media/RapidDelivery.jpg": "/fluffy-garbanzo/static/media/RapidDelivery.533369b78bb62a733189.jpg",
+    "index.html": "/fluffy-garbanzo/index.html",
+    "main.bcc2b6e3.css.map": "/fluffy-garbanzo/static/css/main.bcc2b6e3.css.map",
+    "main.1e042647.js.map": "/fluffy-garbanzo/static/js/main.1e042647.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc2b6e3.css",
+    "static/js/main.1e042647.js"
+  ]
+}
